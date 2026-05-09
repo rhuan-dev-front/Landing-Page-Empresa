@@ -171,6 +171,7 @@ header button:hover {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 30px;
+    cursor: pointer;
 }
 
 /* TÍTULOS */
